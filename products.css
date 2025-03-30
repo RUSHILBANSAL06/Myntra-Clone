@@ -101,7 +101,7 @@
   
   .dropdown-menu ul li:hover a {
     padding-left: 8px;
-    /* padding-right: -8px; */
+    
     color: #ff0095;
   }
   
@@ -125,7 +125,7 @@
   }
   .header div ul:hover {
     border-bottom: #282c3f;
-    /* background-color: red; */
+    
   }
   * {
     box-sizing: border-box;
@@ -134,7 +134,7 @@
   }
   body {
     font-family: Verdana, sans-serif;
-    /* background-color: rgb(248, 248, 248); */
+    
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
       Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   }
@@ -155,10 +155,9 @@
   }
   
   #searchpng {
-    /* height: 10px; */
-    /* vertical-align: middle; */
+    
     width: 15px;
-    /* border: 1px solid red; */
+    
     margin: 15px;
     opacity: 0.5;
   }
@@ -253,7 +252,7 @@
     display: grid;
     grid-template-columns: repeat(5, 18%);
     gap: 1.7%;
-    /* border: 1px solid #ddd; */
+    
   }
   .each-product img {
     width: 100%;
